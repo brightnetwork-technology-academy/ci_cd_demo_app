@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 const teas = [
-    {name: "Rooibos", brand: "Twinnings"},
+    {name: "Rooibos", brand: "Twinings"},
     {name: "Earl Grey", brand: "Tetley"},
     {name: "Breakfast", brand: "Yorkshire Tea"},
     {name: "Green", brand: "Lipton"}
