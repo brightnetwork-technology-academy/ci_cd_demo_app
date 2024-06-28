@@ -6,7 +6,8 @@ const teas = [
     {name: "Rooibos", brand: "Twinings"},
     {name: "Earl Grey", brand: "Tetley"},
     {name: "Breakfast", brand: "Yorkshire Tea"},
-    {name: "Green", brand: "Lipton"}
+    {name: "Green", brand: "Lipton"},
+    {name: "Assam", brand: "Thomsons"}
 ]
 
 app.get("/teas", (req, res) => {
